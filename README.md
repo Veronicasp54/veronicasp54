@@ -1,9 +1,10 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
+### Oi, eu sou a Verônica! 👋
 
-- 👩‍💻 Eu trabalho como Tester na Wise Systems;
-- 🎓Formada no Curso Técnico em Informática - IFPR;
+- 👩‍💻 Trabalho como Tester na Wise Systems
+- 🎓 Formada no Curso Técnico em Informática - IFPR
+
+! [Imagem de Reservas] (onix-coding.png)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=veronicasp54&repo=veronicasp54&countColorcountColor)
 
