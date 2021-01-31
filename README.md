@@ -9,7 +9,7 @@
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandabacelli&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veronicasp54&layout=compact&count_private=true)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=veronicasp54)
 
