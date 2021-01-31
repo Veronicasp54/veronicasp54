@@ -3,9 +3,9 @@
 ### Hi 👋
 
 - 👩‍💻 Eu trabalho como Tester na Wise Systems;
-- 🎓Formada no Curso Técnico em Informática - IFPR
+- 🎓Formada no Curso Técnico em Informática - IFPR;
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=amandabacelli&repo=amandabacelli&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=veronicasp54&repo=veronicasp54&countColorcountColor)
 
 ### Analytics ⚙️
 
