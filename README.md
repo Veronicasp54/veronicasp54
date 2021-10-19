@@ -2,8 +2,10 @@
 ### Oi!!👋
 
 - 👩‍💻 Trabalho como Tester na Wise Systems
-- 🎓 Formada no Curso Técnico em Informática - IFPR
-
+- 🎓 Formada no Curso Técnico em Informática 
+- Cursando Análise e desenvolvimento de sistemas 
+- Cursando comunicação Organizacional 
+- 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=veronicasp54&repo=veronicasp54&countColorcountColor)
 
 ### Me acompanhe 
