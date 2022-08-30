@@ -1,6 +1,6 @@
 ### Oi!!👋
 
-- 👩‍💻 Trabalho como Tester na Wise Systems
+- 👩‍💻 Trabalho como QA Analyst na Wise Systems
 - 🎓 Formada no Curso Técnico em Informática
 - :books: Cursando Análise e desenvolvimento de sistemas
 - :books: Cursando Comunicação Organizacional
