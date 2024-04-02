@@ -1,4 +1,4 @@
-### Oi!!👋
+### Oi sou a Verônica!!👋
 
 - 👩‍💻 Trabalho como QA Analyst
 - 🎓 Formada no Curso Técnico em Informática
