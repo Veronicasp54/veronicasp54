@@ -1,9 +1,9 @@
 ### Oi sou a Verônica!!👋
 Neste espaço, você encontrará minha oficina de conhecimento, onde poderá explorar meus principais projetos e protótipos de aprendizado.
 
-- Estou na área de tecnologia a 4 anos, atuando principalmente nas frentes de qualidade de software e análise de sistemas.
+- Estou na área de tecnologia desde 2016, atuando principalmente nas frentes de qualidade de software e análise de sistemas.
 - Sou técnica em informática formada pelo IFPR de Curitiba.
-- Estou cursando Análise e desenvolvimento de sistemas na Uninter [72%].
+- Graduada em Análise e desenvolvimento de sistemas na Uninter [100%].
 - Estou cursando Comunicação Organizacional pela UTFPR [50%].
 
 
