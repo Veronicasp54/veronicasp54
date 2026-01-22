@@ -2,9 +2,9 @@
 Neste espaço, você encontrará minha oficina de conhecimento, onde poderá explorar meus principais projetos e protótipos de aprendizado.
 
 - Estou na área de tecnologia desde 2016, atuando principalmente nas frentes de qualidade de software e análise de sistemas.
-- Sou técnica em informática formada pelo IFPR de Curitiba.
-- Graduada em Análise e desenvolvimento de sistemas na Uninter [100%].
-- Estou cursando Pós-graduação em Engenharia de qualidade e testes de software na PUC Minas [10%].
+- Sou técnica em informática formada pelo IFPR de Curitiba (2019).
+- Graduada em Análise e desenvolvimento de sistemas na Uninter [100%] (2024).
+- Estou cursando Pós-graduação em Engenharia de qualidade e testes de software na PUC Minas [10%] (2026).
 
 
 
