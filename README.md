@@ -2,11 +2,9 @@
 Neste espaço, você encontrará minha oficina de conhecimento, onde poderá explorar meus principais projetos e protótipos de aprendizado.
 
 - Estou na área de tecnologia desde 2016, atuando principalmente nas frentes de qualidade de software e análise de sistemas.
-- Sou técnica em informática formada pelo IFPR de Curitiba (2019).
+- Técnica em informática pelo IFPR de Curitiba (2019).
 - Graduada em Análise e desenvolvimento de sistemas na Uninter [100%] (2024).
-- Estou cursando Pós-graduação em Engenharia de qualidade e testes de software na PUC Minas [10%] (2026).
-
-
+- Cursando Pós-graduação em Engenharia de qualidade e testes de software na PUC Minas [38,9%] (2026).
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=veronicasp54&repo=veronicasp54&countColorcountColor)
 
