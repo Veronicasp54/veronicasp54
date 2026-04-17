@@ -38,6 +38,8 @@ Atuo no ecossistema de tecnologia desde 2016, com foco em Qualidade de Software 
 ![Accessibility](https://img.shields.io/badge/accessibility-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-40B549?style=for-the-badge&logo=cucumber&logoColor=white)
+![AI Testing](https://img.shields.io/badge/AI%20Testing-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ### :computer: Development
 
